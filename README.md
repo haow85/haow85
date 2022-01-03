@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @haow85
 - 👀 I’m interested in technological innovation and commercialization.
 - 🌱 I’m currently learning French and computer vision.
-- 💞️ I’m looking to collaborate on AI technologies such as recommender systems.
+- 💞️ I’m learning American fine arts and its appraisal.
 - 📫 You can reach me at haow85@live.com
 
 <!---
