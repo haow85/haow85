@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning French and computer vision.
 - 💞️ I’m learning American fine arts and its appraisal.
 - 📫 You can reach me at haow85@live.com
+- I own a small AI startup Ratidar Technologies LLC (http://www.ratidar.com)
 
 <!---
 haow85/haow85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
